@@ -12,12 +12,7 @@ Built with **MediaPipe**, **OpenCV**, and **PyAutoGUI**, this project enables le
 - Runs on standard webcam (no IR sensors)
 - Lightweight, calibration-free design
 
-## 🚀 Features
-- Real-time gaze-based cursor movement
-- Blink classification (left, right, double)
-- Adaptive smoothing & deadzone filtering
-- Runs on standard webcam (no IR sensors)
-- Lightweight, calibration-free design
+
 ## ⚙️ In case you are using zip folder, 
 -> go to Windows PowerShell (recommended) -> paste this command/prompt, and it will automatically run the files 
 - (all libraries are provided in the zip file, just need to run them)
