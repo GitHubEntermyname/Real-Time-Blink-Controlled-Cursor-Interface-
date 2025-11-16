@@ -1,0 +1,24 @@
+
+---
+
+## ⚙️ `.gitattributes`
+
+```gitattributes
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Treat Python files as text
+*.py text diff=python
+
+# Jupyter notebooks
+*.ipynb text
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+
+# CSV logs
+*.csv text
